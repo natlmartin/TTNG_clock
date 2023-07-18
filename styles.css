@@ -1,0 +1,22 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.content {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.clock {
+  font-weight: 700;
+  font-size: 82px;
+}
